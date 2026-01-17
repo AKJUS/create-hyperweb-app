@@ -47,7 +47,7 @@
     "@interchain-ui/react": "1.26.1",
     "@interchain-ui/react-no-ssr": "^0.1.6",
     "interchain-kit": "0.0.1-beta.62",
-    "next": "^13",
+    "next": "^15",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-icons": "4.6.0"

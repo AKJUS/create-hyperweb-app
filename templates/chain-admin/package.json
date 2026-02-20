@@ -35,7 +35,7 @@
     "dayjs": "1.11.11",
     "hyperwebjs": "^0.0.5",
     "interchain-kit": "^0.2.1",
-    "next": "^13",
+    "next": "^15",
     "node-gzip": "^1.1.2",
     "react": "18.2.0",
     "react-ace": "11.0.1",
